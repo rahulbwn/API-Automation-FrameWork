@@ -11,6 +11,5 @@ This framework has 3 layers
 
 Jenkins integration empowers the framework to seamlessly integrate with the popular continuous integration (CI) server.
 
-![image](https://github.com/rahulbwn/api-automation-framework/assets/7951441/c4e70fe5-66ae-4fce-9bd2-0296c352d4a3)
-
+![API Automation Framework](https://github.com/rahulbwn/API-Automation-FrameWork/assets/8847216/c7ae63a2-7d30-4c38-b658-ceab34b73be2)
 
